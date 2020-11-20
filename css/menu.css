@@ -1,0 +1,47 @@
+.menu *{
+    padding: 0;
+    margin: 0;
+}
+
+.menu >ul{
+    display: flex;
+    position: fixed;
+    top:90px;
+    width: 200px;
+}
+
+.menu > ul li a{
+    display: block;
+    background-color: whitesmoke;
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 5px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.menu >ul li a:hover{
+    background-color: #00b3c4;
+    color: whitesmoke;
+    box-shadow: 4px 6px 10px -5px #00b3c4;
+    transition: 0.25s ease-in-out;
+}
+
+.menu li ul{
+    position: absolute;
+    min-width: auto;
+    display: none;
+}
+
+.menu li:hover ul{
+    display: block;
+}
+
+.menu .button{
+    font-size: 18px;
+    
+}

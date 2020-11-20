@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(../img/bg/goluboy-fon.jpg) center/cover fixed no-repeat;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header{
+    margin-top: 15px;
+    height: 55px;
+}
+
+.container .header .title{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 38px;
+}
+
+h2.subtitle{
+    padding: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 32px;
+}
+
+.container .maintext{
+    min-height: 1000px;
+    background-color:whitesmoke;
+    border-radius: 8px;
+}
+
+.text{
+    font-size: 22px;
+    margin: 20px 30px 20px 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+.text >img{
+    padding: 20px;
+    margin: 0;
+}
+
+.fact{
+    border: 1px solid;
+    padding: 5px;
+}
+
+.image_pascaline{
+    float: left;
+    width: 265px;
+    height: 200px;
+}
+
+.pic1{
+    float: right;
+    width: 220px;
+}
+
+.pic2{
+    float: right;
+    width: 210px;
+    height: 250px;
+}
+
+.pic3{
+    float: left;
+    width: 240px;
+    height: 240px;
+}
+
+.turing{
+    float: right;
+}
+
+.neuman{
+    float: left;
+    width: 250px;
+    height: 300px;
+}
+
+.pic4{
+    float: right;
+    width: 374px;
+    height: 297px;
+}
+
+.steve{
+    float: left;
+}
+
+.apple{
+    float: right;
+    width: 235px;
+    height: 225px;
+}
+
+.sources >h3{
+    font-size: 24px;
+}
+
+.activities{
+    font-weight: 700;
+}
+.text h3{
+    font-size: 24px;
+}
+
+.people_translate{
+    font-weight: 700;
+    color: rgb(0, 176, 240);
+}
+
+.tech_translate{
+    font-weight: 700;
+    color: red;
+}
+
+.nontech_translate{
+    font-weight: 700;
+    color: rgb(0, 32, 96);
+}
+
+.lolka{
+  font-weight: 700;
+  color:  rgb(0, 32, 96);
+}
+
+.invisible1{
+  background-color: whitesmoke;
+  color:  whitesmoke;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    min-width: 175px;
+    border: 1px solid;
+    padding: 5px;
+    font-size: 20px;
+    vertical-align: top;
+}
+
+.exr2{
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+}
+
+.centr{
+    text-align: center;
+}
+
+.word{
+    display: none;
+}
+
+.word1{
+  background-color: whitesmoke;
+}
+.word2{
+    background-color: whitesmoke;
+}
+.word3{
+    background-color: whitesmoke;
+}
+.word4{
+    background-color: whitesmoke;
+}
+.word5{
+    background-color: whitesmoke;
+}
+.word6{
+    background-color: whitesmoke;
+}
+.word7{
+    background-color: whitesmoke;
+}
+.word8{
+    background-color: whitesmoke;
+}
+.word9{
+    background-color: whitesmoke;
+}
+.word10{
+    background-color: whitesmoke;
+}
+.word11{
+    background-color: whitesmoke;
+}
+.word12{
+    background-color: whitesmoke;
+}
+.word13{
+    background-color: whitesmoke;
+}
+.word14{
+    background-color: whitesmoke;
+}
